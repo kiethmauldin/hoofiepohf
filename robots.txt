@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohguroithu.gjh6.com/sitemap.xml
